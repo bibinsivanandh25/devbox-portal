@@ -1,0 +1,34 @@
+{
+  "apiUsage": [
+    {
+      "name": "GET /users",
+      "time": "2025-06-20 10:01",
+      "status": "200 OK",
+      "responseTime": "123ms"
+    },
+    {
+      "name": "POST /login",
+      "time": "2025-06-20 09:58",
+      "status": "401 Unauthorized",
+      "responseTime": "98ms"
+    },
+    {
+      "name": "GET /projects",
+      "time": "2025-06-20 09:52",
+      "status": "200 OK",
+      "responseTime": "110ms"
+    },
+    {
+      "name": "PUT /user/1",
+      "time": "2025-06-20 09:48",
+      "status": "500 Server Error",
+      "responseTime": "250ms"
+    },
+    {
+      "name": "DELETE /post/22",
+      "time": "2025-06-20 09:45",
+      "status": "200 OK",
+      "responseTime": "89ms"
+    }
+  ]
+}
