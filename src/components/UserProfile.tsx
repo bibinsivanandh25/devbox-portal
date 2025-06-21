@@ -12,7 +12,7 @@ const UserProfile = () => {
         <strong>Email:</strong> {email || 'user@gmail.com'}
       </p>
       <p>
-        <strong>Role:</strong> Frontend Developer
+        <strong>Plan:</strong> Pro
       </p>
     </div>
   );
